@@ -9,7 +9,7 @@ $api = '2.0.0';
 $data = array(
   'name' => 'islandora_book_ingest_derivatives',
   'content' => array(
-    'pdf' => 'pdf',
+    'pdf' => '0',
     'image' => 'image',
     'ocr' => 0,
   ),
